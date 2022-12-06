@@ -1,5 +1,4 @@
-👋 Hi! <br>
-👾 I’m an ex-Senior QA/Test Automation Engineer and an aspiring Frontend Developer.
+👋 I’m an ex-Senior QA/Test Automation Engineer and an aspiring Frontend Developer.
 
 #### I recently built these projects to aid in my learning:
 

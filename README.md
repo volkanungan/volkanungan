@@ -19,6 +19,7 @@ Tech stack:
 **I challange you to a spelling contest.** I found out most commonly misspelled words in English and built a game out of it. After playing it more than I would admit, still can hardly get 10/10 score 😖
 
 Tech stack:
+- JavaScript
 - React
 - Tailwind
 - Vite
@@ -27,6 +28,7 @@ Tech stack:
 **A cocktail recipe finder.** Integrated to a third party API, this page will give you ingredients and recipe for your favourite (or a random) cocktail.
 
 Tech stack:
+- JavaScript
 - React
 - Flexbox and grid
 - Create React App

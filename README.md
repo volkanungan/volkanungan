@@ -16,7 +16,7 @@ Tech stack:
 - React Testing Library
 
 #### 🆎 Spelling Game [[application]](https://volkanungan.github.io/spelling-quiz/) [[repo]](https://github.com/volkanungan/spelling-quiz)
-**Challenges you to a spelling contest.** I found out most commonly misspelled words in English and built a game out of it.
+**I challange you to a spelling contest.** I found out most commonly misspelled words in English and built a game out of it. After playing it more than I would admit, still can hardly get 10/10 score 😖
 
 Tech stack:
 - React
